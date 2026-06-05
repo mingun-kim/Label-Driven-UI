@@ -71,7 +71,7 @@
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
 		<Item Name="Get Setting Folder Path.vi" Type="VI" URL="../Get Setting Folder Path.vi"/>
-		<Item Name="Include Control Ref in Tab.vi" Type="VI" URL="../../UI Template Test/Include Control Ref in Tab.vi"/>
+		<Item Name="Include Control Ref in Tab.vi" Type="VI" URL="../Include Control Ref in Tab.vi"/>
 		<Item Name="Init Type Array.vim" Type="VI" URL="../Init Type Array.vim"/>
 		<Item Name="Match Regex.vi" Type="VI" URL="../Match Regex.vi"/>
 	</Item>
